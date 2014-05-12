@@ -1,1 +1,1 @@
-This PowerShell script to batch delete all list items from a sharePoint list.  This operation will minimize item purge operations potentially by several hours, in cases of enumerating and deleting on a per-item basis.
+This PowerShell script to batch delete all list items from a sharePoint list.  This batch operation runs considerably faster than list item enumeration deletes.
